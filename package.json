@@ -1,0 +1,22 @@
+{
+  "name": "doymakeyeportfolio",
+  "version": "1.0.0",
+  "description": "my epotfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junmarktimon/doymakeyeportfolio.git"
+  },
+  "author": "doymakey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junmarktimon/doymakeyeportfolio/issues"
+  },
+  "homepage": "https://github.com/junmarktimon/doymakeyeportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
